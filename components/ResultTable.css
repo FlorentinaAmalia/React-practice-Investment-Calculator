@@ -1,0 +1,12 @@
+.ResultTable {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.ResultTable  td {
+    min-width: 140px;
+}
+.ResultTable tr {
+    text-align: end;
+}
